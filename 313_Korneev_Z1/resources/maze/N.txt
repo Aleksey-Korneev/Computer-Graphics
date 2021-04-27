@@ -1,0 +1,25 @@
+#########################
+# .     . ..... .     . #
+# ..   .. .     .     . #
+# . . . . ..... .     . #
+# .  .  .     . .     . #
+# .  .  . .....  .....  #
+#iiiiiiiiiiiiiiiiiiiiiii#
+#jjjjjjjjjjH@Hgggggggggg#
+#Giiiiiiiiii.iiiiiiiiiiG#
+#Gi        i.i        iG#
+#Gi        iQi        iG#
+#Gi         .         iG#
+#Gi        ...        iG#
+#Gi        . .        iG#
+#Gi       .....       iG#
+#Gi       .   .       iG#
+#Gi       .   .       iG#
+#Gi       .   .       iG#
+#Gi   ... .   . ...   iG#
+#Gi   .t...   ...t.   iG#
+#Gi   . . ..... . .   iG#
+#Gi   .t. .dfD. .t.   iG#
+#Gi   .............   iG#
+xGi                   iGx
+#########################
